@@ -2,7 +2,7 @@
 
 🇮🇹
 
-Semplice Script in <a href='https://www.python.org/' target='_blank'>Python</a> per il calcolo del punteggio nel test <a href='https://www.cambridgeenglish.org/exams-and-tests/first/' target='_blank'>Cambridge English di livello B2</a>. Lo script richiede di inserire i punteggi ottenuti nelle varie parti del test, per poi elaborarli e produrre una percentuale da convertire nel punteggio finale.
+Semplice Script in <a href='https://www.python.org/' target='_blank'>Python</a> per il calcolo del punteggio nel test <a href='https://www.cambridgeenglish.org/it/exams-and-tests/first/' target='_blank'>Cambridge English di livello B2</a>. Lo script richiede di inserire i punteggi ottenuti nelle varie parti del test, per poi elaborarli e produrre una percentuale da convertire nel punteggio finale.
 
 🇬🇧
 
