@@ -4,7 +4,7 @@ max_time = {"reading_uoe":75,"listening":40,"writing":80}
 reading_use_of_english_weights = {1:1,2:1,3:1,4:2,5:2,6:2,7:1}
 
 def stampa(score,min,max,time=0,max_time=0):
-    text = str(score) + " punti su un massimo di " + str(max) + " punti"
+    text = str(score) + " punti, su un massimo di " + str(max) + " punti" + " e un minimo di " + str(min) + " punti"
     if(score<min):
         text+= "\tInsufficiente"
     else:
